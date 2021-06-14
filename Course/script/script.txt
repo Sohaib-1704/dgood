@@ -1,0 +1,38 @@
+index page
+
+This project consists of three things : html, css, and javascript. Any webpage or website is based on this things mainly. 
+They are the most basic things to learn for fullstack development. So starting with html which mainly consists of diffrent kinds of tags.
+We have started with <html> tag, then went on to use head tag for providing heading in which we have given refrence for css stylesheets.
+It has external styling in which we use a diffrent file to style our html contents.
+After closing head tag we started with body tag, which consists of header, footer and main body. Inside header tag we have given source of image refrence.
+And also provide the href links for diffrent pages on the right hand. After that we have section tag which has diffrent divisions using div tag. 
+We have given a button for enrolling.Next is our course section which has diffrent courses shown.In this section we will learn how we can jump from one page to another with the help of 
+anchor tag <a> and also implement various advanced level styles which will help for provide shadow to our card as well as nice transition when we hover on it
+In our next section we will build slider for what our saying about our courses. Stat tuned!
+
+Hello and Welcome,
+In this new video we are going to build website most used section for almost every category of website i.e testimonial.
+In this section we will create carousel from scratch without using any third party libraries which also feature next slide and previous slide feature after completing this section you will create your own custom carousel with pure javascript.
+See you in next section ! Bye! Bye!
+
+Hello and Welcome,
+Another video tutorial of making project with HTML,CSS and Javascript
+In this section we are going to build a very beautiful footer with the help of HTML and CSS also teach how you can use various different HTML entities as per your project need and many more.
+So let's get started.
+
+courses page:
+
+now lets create another page for course, which contains description of the course.
+the header and footer are same as before, which we used in index page, and the main body contains the detailed desciption of the course.
+we have used only created the page for python , you can similarly develop for diffrent topics. 
+It also has faqs related to python in form of accordion style, which is used for multiple panels.
+With the help of Javascript DOM Object we will build faq section which allow for the display of only one collapsed item at a time!
+During this section we will learn how we can use toggle() function in Javascript also learn how to use eventListner in javascript and many more.
+
+
+contacts
+this page also contains similar headed and footer used in previous two pages.
+Next is a form type which is generally used when asking the information from user.we used differet types of properties of css.
+we have also used javascript validation here using if else statements. In Javascript we use functions,conditional statements and also use regular expression for validating email.
+
+
